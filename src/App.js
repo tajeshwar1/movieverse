@@ -5,7 +5,7 @@ import {useState ,useEffect} from "react";
 import MovieCard from './movieCard';
 import './App.css';
 import SearchIcon from './search.svg';
-const API_URL = 'http://www.omdbapi.com?apikey=afeac97c';
+const API_URL = 'https://www.omdbapi.com?apikey=afeac97c';
 
 
 const App = ()=>{
